@@ -1,4 +1,3 @@
 # best-repo-ever
 Trailhead rocks!
-Git from Laptop - Branch 1
-
+Git from Laptop - Merged
